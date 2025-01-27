@@ -38,27 +38,27 @@ The file ‘******.zip’ is organized as follows:
 
 ## Simulink Model Components
 - **Fuel Cell Stack**: PEM fuel cell with detailed auxiliary system modeling (H2 tank, air compressor, humidifiers, cooling system and H2 recirculation).
--**Battery Pack**: Li-ion battery modelling using an equivalent circuit model.
--**Electric Motor**: Brushed DC motor equation with cascade control.
--**Power Conditioning**: DC-DC converters for voltage regulation. FC boost converter and motor Buck-Boost converter. Electric model of DC Bus.
--**Energy Management System (EMS)**: State-based control logic for balancing power between fuel cell and battery.
+- **Battery Pack**: Li-ion battery modelling using an equivalent circuit model.
+- **Electric Motor**: Brushed DC motor equation with cascade control.
+- **Power Conditioning**: DC-DC converters for voltage regulation. FC boost converter and motor Buck-Boost converter. Electric model of DC Bus.
+- **Energy Management System (EMS)**: State-based control logic for balancing power between fuel cell and battery.
   
 --
 
 ## Requirements
 - MATLAB and Simulink (R2024a or later recommended)
--Access to the password for protected files (request it via email: ale.brusasco@gmail.com)
+- Access to the password for protected files (request it via email: ale.brusasco@gmail.com)
 
 ---
 
 ## Installation
-1. Clone this repository:
+ 1. Clone this repository:
    
   git clone https://github.com/your-username/electric-driveline-fuelcell-battery.git CAMBIA NOME
 
- 3. Extract the file '*****.zip'.
+ 2. Extract the file '*****.zip'.
     
- 4. Enter the provided password to open the selected files.
+ 3. Enter the provided password to open the selected files.
 
  Refer to the 'User_guide' file for further information.
  
