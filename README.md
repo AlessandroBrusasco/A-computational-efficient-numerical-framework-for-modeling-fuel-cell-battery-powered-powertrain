@@ -27,7 +27,7 @@ The file ‘******.zip’ is organized as follows:
 - **Simulink Model**: ‘Propulsion_model.slx’ contains the Simulink implementation of the electric driveline.
 - **MATLAB Script**: ‘Propulsion_script.m’ contains the setting parameters and running code for the simulations.
 - **Documentation**: ‘Report.text’ fearures a detailed description of the model components. 
-- **Example Load Cycles**: ‘Load_cycle_example.m’ contains an example of drive cycle. The data are stored in the ‘Load Cycle Example’ folder.
+- **Example Load Cycles**: ‘Load_cycle_example.m’ contains an two examples of drive cycle. The data are stored in the ‘Load Cycle Example’ folder.
 - **Parameters initialization**: The folder ‘Callback Function’ comprises the supporting functions for defining essential parameters of the model.
 - **Usage Guide**: ‘User_guide.text’ includes all the instructions for setting up and running simulations.
 - **Simulink icon**: ‘Figure’ folder contains the icons of the Simulink components.
@@ -39,8 +39,8 @@ The file ‘******.zip’ is organized as follows:
 ## Simulink Model Components
 - **Fuel Cell Stack**: PEM fuel cell with detailed auxiliary system modeling (H2 tank, air compressor, humidifiers, cooling system and H2 recirculation).
 - **Battery Pack**: Li-ion battery modelling using an equivalent circuit model.
-- **Electric Motor**: Brushed DC motor equation with cascade control.
-- **Power Conditioning**: DC-DC converters for voltage regulation. FC boost converter and motor Buck-Boost converter. Electric model of DC Bus.
+- **Electric Motor**: Brushed DC motor electromechanical equations with cascade control technique.
+- **Power Conditioning**: DC-DC converters for voltage regulation: a FC boost converter and a motor Buck-Boost converter. Electric model of DC Bus.
 - **Energy Management System (EMS)**: State-based control logic for balancing power between fuel cell and battery.
   
 --
