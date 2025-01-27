@@ -6,6 +6,8 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to 
 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
+--
+
 ## Summary of Terms:
 1. **Attribution**: You must give appropriate credit to the original author(s), provide a link to the license, and indicate if changes were made. However, changes are not permitted under this license.
 2. **NonCommercial**: You may not use the material for commercial purposes.
@@ -17,14 +19,12 @@ Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 ## Additional Notes:
 
 1. **Password Protection**: 
-   - Some blocks in the provided Simulink model are protected by a password. 
+   - The repository content is protected by a password. 
    - The password can be requested via email at: ale.brusasco@gmailcom.
 
 2. **Intended Use**:
    - This repository is intended for research and educational purposes only. Commercial use is strictly prohibited.
 
-3. **Redistribution**:
-   - You are permitted to share the original files, provided no modifications are made, and this license is included with the shared files.
 
 ---
 
