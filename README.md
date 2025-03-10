@@ -1,14 +1,13 @@
-# Propulsion-Model
-# Electric Driveline Model: Fuel Cell and Battery Integration
+# Electric Propulsion Model: Fuel Cell and Battery Integration
 
 ## Overview
 This repository contains a high-fidelity Simulink model of an electric driveline that integrates a Proton Exchange Membrane (PEM) fuel cell and a lithium-ion battery pack. The model offers high design flexibility, low computational demand, and detailed representation of system dynamics. It serves as a powerful tool for research and development in sustainable transportation technologies.
 The model integrates all components of the driveline using a high level of detail, relying on real physical and analytical equations to accurately describe the behaviour of each component. This approach ensures precision and reliability in the representation of system dynamics.
 The model offers the opportunity to simulates the electric propulsion under different conditions. It is characterized by great parameter handling, allowing the implementation of systems with a broad range of power ratings.
 Furthermore, a modular architecture was adopted during the model's design, facilitating the customization and incorporation of supplementary elements
-The model is validated against a Simscape-based equivalent, demonstrating equivalent performance with significantly reduced computational time. (CITARE PAPER)
+The model is validated against a Simscape-based equivalent model exploiting real load cyces, demonstrating equivalent performances with significantly reduced computational time. (CITARE PAPER, metti numerino e in fondo paper)
 
-The content of folder '*****.zip' is protected by a passaword that can be requested and will be provided via email: ale.brusasco@gmail.com
+The folder '*****.zip' contains all the files needed. It is protected by a passaword that can be requested and will be provided via email: ale.brusasco@gmail.com
 
 ---
 
@@ -26,10 +25,10 @@ The content of folder '*****.zip' is protected by a passaword that can be reques
 The file ‘******.zip’ is organized as follows:
 - **Simulink Model**: ‘Propulsion_model.slx’ contains the Simulink implementation of the electric driveline.
 - **MATLAB Script**: ‘Propulsion_script.m’ contains the setting parameters and running code for the simulations.
-- **Documentation**: ‘Report.text’ fearures a detailed description of the model components. 
-- **Example Load Cycles**: ‘Load_cycle_example.m’ contains an two examples of drive cycle. The data are stored in the ‘Load Cycle Example’ folder.
-- **Parameters initialization**: The folder ‘Callback Function’ comprises the supporting functions for defining essential parameters of the model.
+- **Documentation**: ‘Report.text’ fearures a detailed description of the modeling methodology.
 - **Usage Guide**: ‘User_guide.text’ includes all the instructions for setting up and running simulations.
+- **Example Load Cycles**: ‘Load_cycle_example.m’ contains two examples of drive cycle. The data are stored in ‘Load Cycle Example’ folder.
+- **Parameters initialization**: The folder ‘Callback Function’ comprises the supporting functions for defining essential parameters of the model.
 - **Simulink icon**: ‘Figure’ folder contains the icons of the Simulink components.
 - **License**: ‘License.text’ defines usage terms.
 - **README** file.
@@ -40,8 +39,9 @@ The file ‘******.zip’ is organized as follows:
 - **Fuel Cell Stack**: PEM fuel cell with detailed auxiliary system modeling (H2 tank, air compressor, humidifiers, cooling system and H2 recirculation).
 - **Battery Pack**: Li-ion battery modelling using an equivalent circuit model.
 - **Electric Motor**: Brushed DC motor electromechanical equations with cascade control technique.
-- **Power Conditioning**: DC-DC converters for voltage regulation: a FC boost converter and a motor Buck-Boost converter. Electric model of DC Bus.
+- **Power Conditioning**: DC-DC converters for voltage and current regulation: a FC boost converter and a motor Buck-Boost converter. Electric model of DC Bus.
 - **Energy Management System (EMS)**: State-based control logic for balancing power between fuel cell and battery.
+- **Control Functions**: Regulation of fuel cell and BoP operation, control of motor speed and torque, voltage and current regulation via DC-DC converters.
   
 --
 
@@ -65,10 +65,8 @@ The file ‘******.zip’ is organized as follows:
 --
 
 ## License
-This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) ** License.
+This project is licensed under the **Creative Commons Attribution-ShareAlike (CC-BY-SA) 4.0** License.
 See the ‘License.text’ file for further details.
-
-The files are protected by a password that can be requested to the owner and will be provided. The password request via email at: **ale.brusasco@gmail.com**. 
 
 --
 
