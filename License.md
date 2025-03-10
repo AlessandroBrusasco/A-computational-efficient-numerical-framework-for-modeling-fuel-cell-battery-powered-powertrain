@@ -1,6 +1,6 @@
 Copyright © 2025 Alessandro Brusasco. All rights reserved.
 
-# License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+# License: Creative Commons Attribution-ShareAlike (CC-BY-SA) 4.0
 
 This repository is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
 
