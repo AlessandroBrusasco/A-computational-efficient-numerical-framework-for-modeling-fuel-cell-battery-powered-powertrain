@@ -2,31 +2,34 @@ Copyright © 2025 Alessandro Brusasco. All rights reserved.
 
 # License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
-To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to 
-Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+This repository is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
 
 
 ## Summary of Terms:
-1. **Attribution**: You must give appropriate credit to the original author(s), provide a link to the license, and indicate if changes were made. However, changes are not permitted under this license.
-2. **NonCommercial**: You may not use the material for commercial purposes.
-3. **NoDerivatives**: If you remix, transform, or build upon the material, you may not distribute the modified material.
-4. **No Warranty**: This work is provided "as is" without warranties of any kind.
+
+1. **Attribution (BY)**: You must give appropriate credit to the original author. Include the following attribution when using or modifying this work:
+			"This work is based on [original title] by [author], available at [link], and released under the CC-BY-SA 4.0 license."
+2. **Share-Alike (SA)**: If you modify, transform, or build upon this work, you must distribute your contributions under the same CC-BY-SA 4.0 license.
+3. **Commercial Use**: The content of this repository can be used for commercial purposes, as long as proper attribution is given and the Share-Alike condition is respected.
 
 ---
 
 ## Additional Notes:
 
-1. **Password Protection**: 
+**Password Protection**: 
    - The repository content is protected by a password. 
-   - The password can be requested via email at: ale.brusasco@gmailcom.
+   - The password can be requested via email at: ale.brusasco@gmailcom and will be provided.
 
-2. **Intended Use**:
-   - This repository is intended for research and educational purposes only. Commercial use is strictly prohibited.
+---
 
+## Full License Text
+
+You can read the full Creative Commons Attribution-ShareAlike 4.0 license here:
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 ---
 
 ## Author Information:
 This work was created by Alessandro Brusasco. 
-For inquiries, please contact: ale.brusasco@gmail.com.
+For further informations, please contact: ale.brusasco@gmail.com.
