@@ -1,13 +1,13 @@
-# Electric Propulsion Model: Fuel Cell and Battery Integration
+# A computational efficient numerical framework for modeling fuel cell-battery powered powertrain
 
 ## Overview
 This repository contains a high-fidelity Simulink model of an electric driveline that integrates a Proton Exchange Membrane (PEM) fuel cell and a lithium-ion battery pack. The model offers high design flexibility, low computational demand, and detailed representation of system dynamics. It serves as a powerful tool for research and development in sustainable transportation technologies.
 The model integrates all components of the driveline using a high level of detail, relying on real physical and analytical equations to accurately describe the behaviour of each component. This approach ensures precision and reliability in the representation of system dynamics.
 The model offers the opportunity to simulates the electric propulsion under different conditions. It is characterized by great parameter handling, allowing the implementation of systems with a broad range of power ratings.
 Furthermore, a modular architecture was adopted during the model's design, facilitating the customization and incorporation of supplementary elements
-The model is validated against a Simscape-based equivalent model exploiting real load cyces, demonstrating equivalent performances with significantly reduced computational time. (CITARE PAPER, metti numerino e in fondo paper)
+The model is validated against a Simscape-based equivalent model exploiting real load cyces, demonstrating equivalent performances with significantly reduced computational time[1].
 
-The folder '*****.zip' contains all the files needed. It is protected by a passaword that can be requested and will be provided via email: ale.brusasco@gmail.com
+The folder 'Fuel_cell-battery_powertrain.zip' contains all the files needed. It is protected by a passaword that can be requested and will be provided via email: ale.brusasco@gmail.com
 
 ---
 
@@ -16,7 +16,7 @@ The folder '*****.zip' contains all the files needed. It is protected by a passa
 - **Real Equations**: Incorporates analytical and physical equations to model the behaviour of each component.
 - **Modular Architecture**: Enables customization and integration of additional components.
 - **High Fidelity**: Includes detailed modeling of fuel cell thermodynamics, electrochemistry, and energy management.
-- **Validated Performance**: Tested using real-world load cycles with comparative results. CITA PAPER
+- **Validated Performance**: Tested using real-world load cycles with comparative results[1].
 - **Open Source with Restrictions**: Accessible for research and educational purposes under specified license terms.
   
 ---
@@ -54,9 +54,9 @@ The file ‘******.zip’ is organized as follows:
 ## Installation
  1. Clone this repository:
    
-  git clone https://github.com/your-username/electric-driveline-fuelcell-battery.git CAMBIA NOME
+  git clone https://github.com/AlessandroBrusasco/A-computational-efficient-numerical-framework-for-modeling-fuel-cell-battery-powered-powertrain.git
 
- 2. Extract the file '*****.zip'.
+ 2. Extract the file 'Fuel_cell-battery_powertrain.zip'.
     
  3. Enter the provided password to open the selected files.
 
@@ -71,7 +71,7 @@ See the ‘License.text’ file for further details.
 --
 
 ## Acknowledgments
-This project is based on the research paper: %%NOME PAPER%% Author(s): Alessandro Brusasco, Mauro Bonfanti, Francesco Balestrieri, Giulio Gennaro, Stefano Mauro.
+This project is based on the research paper: (to be published) Author(s): Alessandro Brusasco, Mauro Bonfanti, Francesco Balestrieri, Giulio Gennaro, Stefano Mauro.
 Department of Mechanical and Aerospace Engineering, Politecnico di Torino, Italy.
 
 --
