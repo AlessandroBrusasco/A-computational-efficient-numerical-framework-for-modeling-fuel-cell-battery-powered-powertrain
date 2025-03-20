@@ -7,8 +7,20 @@ The model offers the opportunity to simulates the electric propulsion under diff
 Furthermore, a modular architecture was adopted during the model's design, facilitating the customization and incorporation of supplementary elements
 The model is validated against a Simscape-based equivalent model exploiting real load cyces, demonstrating equivalent performances with significantly reduced computational time[1].
 
-The folder 'Fuel_cell-battery_powertrain.zip' contains all the files needed. It is protected by a passaword that can be requested and will be provided via email: ale.brusasco@gmail.com
+The folder 'Fuel_cell-battery_powertrain.zip' contains all the files needed. It is protected by a password that can be requested and will be provided via email: alessandro.brusasco@polito.it
 
+The author of the repository are:
+- Alessandro Brusasco
+  alessandro.brusasco@polito.it
+  ale.brusasco@gmail.com
+  ORCID: https://orcid.org/0009-0006-5942-6024
+
+- Mauro bonfanti
+  mauro.bonfanti@polito.it
+  mauro.bonfanti.92@gmail.com
+  ORCID: https://orcid.org/0000-0001-7729-6936
+
+  
 ---
 
 ## Features
@@ -62,19 +74,19 @@ The file ‘******.zip’ is organized as follows:
 
  Refer to the 'User_guide' file for further information.
  
---
+---
 
 ## License
 This project is licensed under the **Creative Commons Attribution-ShareAlike (CC-BY-SA) 4.0** License.
 See the ‘License.text’ file for further details.
 
---
+---
 
 ## Acknowledgments
 This project is based on the research paper: (to be published) Author(s): Alessandro Brusasco, Mauro Bonfanti, Francesco Balestrieri, Giulio Gennaro, Stefano Mauro.
 Department of Mechanical and Aerospace Engineering, Politecnico di Torino, Italy.
 
---
+---
 
 ## Contact
 For questions or feedback, please contact:
