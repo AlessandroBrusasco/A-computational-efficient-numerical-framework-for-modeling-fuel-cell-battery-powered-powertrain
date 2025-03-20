@@ -13,12 +13,17 @@ The author of the repository are:
 - Alessandro Brusasco
   
   alessandro.brusasco@polito.it
+  
   ale.brusasco@gmail.com
+  
   ORCID: https://orcid.org/0009-0006-5942-6024
 
 - Mauro bonfanti
+  
   mauro.bonfanti@polito.it
+  
   mauro.bonfanti.92@gmail.com
+  
   ORCID: https://orcid.org/0000-0001-7729-6936
 
   
