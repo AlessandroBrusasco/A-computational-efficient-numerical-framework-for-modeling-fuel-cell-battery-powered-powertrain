@@ -1,4 +1,4 @@
-Copyright © 2025 Alessandro Brusasco. All rights reserved.
+Copyright © 2025 Alessandro Brusasco & Mauro Bonfanti. All rights reserved.
 
 # License: Creative Commons Attribution-ShareAlike (CC-BY-SA) 4.0
 
@@ -19,7 +19,7 @@ This repository is licensed under the Creative Commons Attribution-ShareAlike 4.
 
 **Password Protection**: 
    - The repository content is protected by a password. 
-   - The password can be requested via email at: ale.brusasco@gmailcom and will be provided.
+   - The password can be requested via email at: alessadnro.brusasco@polito.it and will be provided.
 
 ---
 
@@ -31,5 +31,5 @@ https://creativecommons.org/licenses/by-sa/4.0/legalcode
 ---
 
 ## Author Information:
-This work was created by Alessandro Brusasco. 
-For further informations, please contact: ale.brusasco@gmail.com.
+This work was created by Alessandro Brusasco and Mauro Bonfanti. 
+For further informations, see README file
