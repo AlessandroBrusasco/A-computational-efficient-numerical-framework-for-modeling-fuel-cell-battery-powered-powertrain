@@ -11,6 +11,7 @@ The folder 'Fuel_cell-battery_powertrain.zip' contains all the files needed. It 
 
 The author of the repository are:
 - Alessandro Brusasco
+  
   alessandro.brusasco@polito.it
   ale.brusasco@gmail.com
   ORCID: https://orcid.org/0009-0006-5942-6024
@@ -55,7 +56,7 @@ The file ‘******.zip’ is organized as follows:
 - **Energy Management System (EMS)**: State-based control logic for balancing power between fuel cell and battery.
 - **Control Functions**: Regulation of fuel cell and BoP operation, control of motor speed and torque, voltage and current regulation via DC-DC converters.
   
---
+---
 
 ## Requirements
 - MATLAB and Simulink (R2024a or later recommended)
