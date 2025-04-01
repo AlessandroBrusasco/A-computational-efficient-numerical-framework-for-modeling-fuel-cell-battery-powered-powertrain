@@ -19,7 +19,7 @@ This repository is licensed under the Creative Commons Attribution-ShareAlike 4.
 
 **Password Protection**: 
    - The repository content is protected by a password. 
-   - The password can be requested via email at: alessadnro.brusasco@polito.it and will be provided.
+   - The password can be requested via email at: alessandro.brusasco@polito.it and will be provided.
 
 ---
 
