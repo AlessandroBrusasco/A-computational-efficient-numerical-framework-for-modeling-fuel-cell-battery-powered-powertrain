@@ -18,7 +18,7 @@ The author of the repository are:
   
   ORCID: https://orcid.org/0009-0006-5942-6024
 
-- Mauro bonfanti
+- Mauro Bonfanti
   
   mauro.bonfanti@polito.it
   
