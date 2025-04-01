@@ -65,7 +65,7 @@ The file ‘******.zip’ is organized as follows:
 
 ## Requirements
 - MATLAB and Simulink (R2024a or later recommended)
-- Access to the password for protected files (request it via email: ale.brusasco@gmail.com)
+- Access to the password for protected files 
 
 ---
 
@@ -96,4 +96,4 @@ Department of Mechanical and Aerospace Engineering, Politecnico di Torino, Italy
 
 ## Contact
 For questions or feedback, please contact:
-**ale.brusasco@gmail.com**
+**alessandro.brusasco@polito.it**
