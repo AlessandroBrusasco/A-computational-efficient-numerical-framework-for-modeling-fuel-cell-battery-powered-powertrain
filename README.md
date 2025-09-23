@@ -7,7 +7,7 @@ The model offers the opportunity to simulates the electric propulsion under diff
 Furthermore, a modular architecture was adopted during the model's design, facilitating the customization and incorporation of supplementary elements
 The model is validated against a Simscape-based equivalent model exploiting real load cyces, demonstrating equivalent performances with significantly reduced computational time[1].
 
-The folder 'Fuel_cell-battery_powertrain.zip' contains all the files needed. It is protected by a password that can be requested and will be provided via email: alessandro.brusasco@polito.it
+The folder 'Fuel_cell-battery_powertrain.zip' contains all the files needed.
 
 The author of the repository are:
 - Alessandro Brusasco
@@ -65,7 +65,6 @@ The file ‘******.zip’ is organized as follows:
 
 ## Requirements
 - MATLAB and Simulink (R2024a or later recommended)
-- Access to the password for protected files 
 
 ---
 
@@ -75,8 +74,6 @@ The file ‘******.zip’ is organized as follows:
   git clone https://github.com/AlessandroBrusasco/A-computational-efficient-numerical-framework-for-modeling-fuel-cell-battery-powered-powertrain.git
 
  2. Extract the file 'Fuel_cell-battery_powertrain.zip'.
-    
- 3. Enter the provided password to open the selected files.
 
  Refer to the 'User_guide' file for further information.
  
@@ -96,4 +93,4 @@ Department of Mechanical and Aerospace Engineering, Politecnico di Torino, Italy
 
 ## Contact
 For questions or feedback, please contact:
-**alessandro.brusasco@polito.it**
+**ale.brusasco@gmail.com**
