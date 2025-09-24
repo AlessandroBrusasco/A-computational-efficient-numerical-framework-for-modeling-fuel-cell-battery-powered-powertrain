@@ -40,7 +40,7 @@ The author of the repository are:
 ---
 
 ## Repository Contents
-The file ‘******.zip’ is organized as follows:
+The file ‘Fuel_cell-battery_powertrain.zip’ is organized as follows:
 - **Simulink Model**: ‘Propulsion_model.slx’ contains the Simulink implementation of the electric driveline.
 - **MATLAB Script**: ‘Propulsion_script.m’ contains the setting parameters and running code for the simulations.
 - **Documentation**: ‘Report.text’ fearures a detailed description of the modeling methodology.
