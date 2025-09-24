@@ -13,13 +13,6 @@ This repository is licensed under the Creative Commons Attribution-ShareAlike 4.
 2. **Share-Alike (SA)**: If you modify, transform, or build upon this work, you must distribute your contributions under the same CC-BY-SA 4.0 license.
 3. **Commercial Use**: The content of this repository can be used for commercial purposes, as long as proper attribution is given and the Share-Alike condition is respected.
 
----
-
-## Additional Notes:
-
-**Password Protection**: 
-   - The repository content is protected by a password. 
-   - The password can be requested via email at: alessandro.brusasco@polito.it and will be provided.
 
 ---
 
