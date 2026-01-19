@@ -1,4 +1,4 @@
-# A computational efficient numerical framework for modeling fuel cell-battery powered powertrain
+# A computational efficient, multi-domain numerical framework for modeling fuel cell-battery powered powertrain
 
 ## Overview
 This repository contains a high-fidelity Simulink model of an electric driveline that integrates a Proton Exchange Membrane (PEM) fuel cell and a lithium-ion battery pack. The model offers high design flexibility, low computational demand, and detailed representation of system dynamics. It serves as a powerful tool for research and development in sustainable transportation technologies.
