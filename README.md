@@ -86,8 +86,7 @@ See the ‘License.text’ file for further details.
 ---
 
 ## Acknowledgments
-This project is based on the research paper: (to be published) Author(s): Alessandro Brusasco, Mauro Bonfanti, Francesco Balestrieri, Giulio Gennaro, Stefano Mauro.
-Department of Mechanical and Aerospace Engineering, Politecnico di Torino, Italy.
+This project is based on the research paper: Alessandro Brusasco, Mauro Bonfanti, Francesco Balestrieri, Giulio Gennaro, Matteo Melchiorre, Stefano Mauro, A computational efficient, multi-domain numerical framework for modelling fuel cell–battery powered powertrains, Energy Conversion and Management: X, Volume 29, 2026, 101527, https://doi.org/10.1016/j.ecmx.2026.101527.
 
 ---
 
